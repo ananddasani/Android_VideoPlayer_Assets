@@ -1,6 +1,8 @@
 # Android_VideoPlayer_Assets
 Playing Video From Assets and seeking with seek bar
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -77,6 +79,6 @@ SurfaceHolder surfaceHolder = surfaceView.getHolder();
 
 # App Highlight
 
-<img src="app_images/Video Player Assets Code.png" width="1000" /><br>
+![Video Player Assets App](https://user-images.githubusercontent.com/74413402/192093107-c11f4fe1-ac2b-40d4-bd3a-1096189f164c.png)
+![Video Player Assets Code](https://user-images.githubusercontent.com/74413402/192093112-4aaec9c9-86d4-4bb7-bf56-446da9b3e82f.png)
 
-<img src="app_images/Video Player Assets App.png" width="300" /><br>
